@@ -16,5 +16,5 @@ Features:
 ✅ Interactive UI with smooth styling.
 
 Play Now 🔗
-👉 Click Here to Play Tic-Tac-Toe
+👉 Click Here to Play Tic-Tac-Toe: https://akashverma08.github.io/Tic-Tac-Toe/
 
